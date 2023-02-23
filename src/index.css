@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+.images {
+  height: 250px;
+  object-fit: fill;
+}
+
+.image-align {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.link-style {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+  padding: 10px 15px;
+  border: 1px solid gray;
+  border-radius: 15px;
+  background-color: rgba(219, 10, 91, 1);
+  text-align: center;
+  color: white;
+  height: 20px;
+  width: 200px;
+}
+
+.link-style-detail {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+  padding: 10px 15px;
+  text-align: center;
+  color: white;
+}
+
+.link-style:hover {
+  color: black;
+}
+.link-style-detail:hover {
+  color: white;
+}
+
+.app {
+  background-color: rgba(206, 195, 200);
+  /* background-color: rgba(108, 122, 137,1); */
+}
+
+/* background-color: rgba(4, 59, 92,1);} */
+
+.para-text {
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+.head-text-library {
+  text-transform: uppercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color: tomato;
+}
+
+.head-text {
+  text-transform: uppercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+.nav-bg {
+  background-color: rgba(4, 59, 92, 1);
+  /* background-color: rgba(108, 122, 137,1); */
+}
+
+.search-head {
+  text-transform: uppercase;
+  color: crimson;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+}
+
+.images-detail{
+  height: 350px;
+  width: 100%;
+}
+
+.btn
+ {
+    transition: all;
+}
+
+.main-head{
+  color: springgreen;
+  font-family: 'Courier New', Courier, monospace;
+}
