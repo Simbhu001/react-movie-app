@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simbhu001/react-movie-app/static/css/main.a65cd550.css",
+    "main.js": "/Simbhu001/react-movie-app/static/js/main.ce1d1cea.js",
+    "static/media/thanos.jpg": "/Simbhu001/react-movie-app/static/media/thanos.652ba3cfc47cf31b414e.jpg",
+    "static/media/pngegg.png": "/Simbhu001/react-movie-app/static/media/pngegg.ac1148cbc98636a690aa.png",
+    "static/media/rocketraccoon.jpg": "/Simbhu001/react-movie-app/static/media/rocketraccoon.9bdb4c0b744390a32cf3.jpg",
+    "static/media/ironman.jpg": "/Simbhu001/react-movie-app/static/media/ironman.cfd39960965ff3a555fd.jpg",
+    "static/media/spiderman.jpg": "/Simbhu001/react-movie-app/static/media/spiderman.3a5e9050ab46c0821107.jpg",
+    "static/media/blackpanther.jpg": "/Simbhu001/react-movie-app/static/media/blackpanther.9fb7efe2b079776fe4ff.jpg",
+    "static/media/captain.jpg": "/Simbhu001/react-movie-app/static/media/captain.76719ec303f4b2f8c073.jpg",
+    "static/media/hulk.jpg": "/Simbhu001/react-movie-app/static/media/hulk.6b9856766202de576c3d.jpg",
+    "static/media/doctorStrange.jpg": "/Simbhu001/react-movie-app/static/media/doctorStrange.729f9d21e4fb02edde09.jpg",
+    "index.html": "/Simbhu001/react-movie-app/index.html",
+    "main.a65cd550.css.map": "/Simbhu001/react-movie-app/static/css/main.a65cd550.css.map",
+    "main.ce1d1cea.js.map": "/Simbhu001/react-movie-app/static/js/main.ce1d1cea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a65cd550.css",
+    "static/js/main.ce1d1cea.js"
+  ]
+}
